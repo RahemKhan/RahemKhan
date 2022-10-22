@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **SQL and Cloud Computing**
 - 📫 How to reach me **rahem_khan@hotmail.co.uk**
 - ⚡ Fun fact **I've driven to 5 countries from UK**
+- ⚡ **I'am currently persueing MSc Data Science @ City University of London**
 
 I am proficient in Data Analytics and Machine Learning concepts and demonstrate a background in Python, SQL and Tableau. Passionate about promoting data-driven decision making to deliver analytics solutions for business decisions. 
 
